@@ -29,7 +29,7 @@ Power BI: Data visualization and dashboarding
 DAX: Calculated columns and measures for retention trends
 
 ### Power BI Dashboard  
-https://github.com/franklinanalytics/ecommerce-customer-behaviour-analysis/blob/main/ecommerce.png
+![Dashboard Screenshot](https://github.com/franklinanalytics/ecommerce-customer-behaviour-analysis/blob/main/ecommerce.png)
 
 ## How to Use  
 SQL Queries: Find the SQL scripts in the /SQL folder.  
