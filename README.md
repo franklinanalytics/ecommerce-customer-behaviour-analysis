@@ -1,4 +1,7 @@
 # Project Overview
+
+![](https://github.com/franklinanalytics/ecommerce-customer-behaviour-analysis/blob/main/ecommerce.webp)
+
 This project analyzes customer behavior and purchasing patterns for an e-commerce store using PostgreSQL and Power BI. The goal is to extract insights into customer demographics, retention, and revenue trends.
 
 ## Dataset
